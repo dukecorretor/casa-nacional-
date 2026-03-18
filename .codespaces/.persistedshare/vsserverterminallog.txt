@@ -1,2 +1,3 @@
 [[1m[38;2;99;143;79m5222055 ms[39m[22m] [[1m[38;2;86;156;214m16[39m[22m:[1m[38;2;86;156;214m49[39m[22m:[1m[38;2;86;156;214m17[39m[22m] [[1m[38;2;86;156;214m127.0.0.1[39m[22m][2e00850b][ExtensionHostConnection] The client has reconnected.
 [[1m[38;2;99;143;79m5222062 ms[39m[22m] [[1m[38;2;86;156;214m16[39m[22m:[1m[38;2;86;156;214m49[39m[22m:[1m[38;2;86;156;214m17[39m[22m] [[1m[38;2;86;156;214m127.0.0.1[39m[22m][dd5d4bc1][ManagementConnection] The client has reconnected.
+[[1m[38;2;99;143;79m7454334 ms[39m[22m] [[1m[38;2;86;156;214m17[39m[22m:[1m[38;2;86;156;214m26[39m[22m:[1m[38;2;86;156;214m30[39m[22m] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
